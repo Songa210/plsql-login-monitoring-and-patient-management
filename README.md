@@ -2,7 +2,8 @@
 ## Assignment Projects – Triggers & Packages 
 ## Group: C Wednesday
 
-### Group members: 1. Elyse Niyomwungere 28273
+### Group members: 
+1. Elyse Niyomwungere 28273
 2. Josias Ndamira 27838
 
 ## Overview
