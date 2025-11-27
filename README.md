@@ -1,7 +1,9 @@
 # Database Development with PL/SQL  
 ## Assignment Projects – Triggers & Packages 
-## Group: C 
-### Author: Elyse Niyomwungere 28273
+## Group: C Wednesday
+
+### Group members: 1. Elyse Niyomwungere 28273
+2. Josias Ndamira 27838
 
 ## Overview
 This repository contains two PL/SQL-based database development projects completed for **INSY 8311 – Database Development with PL/SQL**. The projects demonstrate skills in SQL table design, PL/SQL triggers, PL/SQL packages, bulk processing, error handling, security enforcement, and use of cursors.
