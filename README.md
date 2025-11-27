@@ -8,6 +8,7 @@
 3. Armstrong Amiso Solomon 26462
 4. Manzi Ephrem 27856
 5. Niyitegeka Jean de Dieu 27012
+6. Mutoni Patience 28376
 ## Overview
 This repository contains two PL/SQL-based database development projects completed for **INSY 8311 – Database Development with PL/SQL**. The projects demonstrate skills in SQL table design, PL/SQL triggers, PL/SQL packages, bulk processing, error handling, security enforcement, and use of cursors.
 
