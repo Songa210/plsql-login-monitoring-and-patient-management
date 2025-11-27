@@ -5,6 +5,7 @@
 ### Group members: 
 1. Elyse Niyomwungere 28273
 2. Josias Ndamira 27838
+3. Armstrong Amiso Solomon 26462
 
 ## Overview
 This repository contains two PL/SQL-based database development projects completed for **INSY 8311 – Database Development with PL/SQL**. The projects demonstrate skills in SQL table design, PL/SQL triggers, PL/SQL packages, bulk processing, error handling, security enforcement, and use of cursors.
